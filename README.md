@@ -33,7 +33,7 @@ src/
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/api-blog.git
+git clone https://github.com/LinsArauj0/api-blog.git
 cd api-blog
 ```
 
